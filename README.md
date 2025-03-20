@@ -135,13 +135,16 @@ add libraries which are needed<br/>
 
 # Now the final part of hacking
 
-  ** IN Kali linux **
+ ### IN Kali linux 
   ##1.  now start ngrok server. <br/>
+  ### Device
   ##2.  plug in the device to target.<br/>
+  ### any device conneted to same wifi network
   ##2.  open broswer and type ip address and click enter.<br/>
   ##3.  now paste payload in textbox and then click send<br/>
   ##4.  In 5 second you will get connetion of target system in kali linux.<br/>
   ##5.  Then click enter. <br/>
+  ### In kali linux
   ##6.  now access of powershell has been to the kali linux.<br/>
   ##7.  we can execute so many commands to the system.<br/>
   
