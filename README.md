@@ -23,12 +23,6 @@ add libraries which are needed<br/>
   6. click on boards
   7. then select esp32 s3 boards.
   8. copy and paste code which is provided on github repo.
-
-      
-      ```{r, file='MAINCODE.ino'}
-      ```
-
-    
   10. change wifi password to your wifi settings.
   11. change payload if needed
   12. Connect the ESP32-S3 Mini to Your Computer
@@ -62,7 +56,17 @@ add libraries which are needed<br/>
 
    
     - now paste your script to execte on powershell window 
-    - dispay ima
+    - then click **send** to execute on laptop/pc.
+
+**this is the project keystroke injection module **
+
+
+
+**now for advance  hacking we use kali linux, reverse powershell, ngrok server**
+
+
+
+    
     
   
 
