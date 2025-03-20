@@ -146,8 +146,12 @@ add libraries which are needed<br/>
   ##5.  Then click enter. <br/>
   ### In kali linux
   ##6.  now access of powershell has been to the kali linux.<br/>
-  ##7.  we can execute so many commands to the system.<br/>
   
+  ##7.  we can execute so many commands to the system.<br/>
+        examle
+        
+          whoami- displays username of system
+          
 
 
 
