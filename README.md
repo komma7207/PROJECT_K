@@ -75,7 +75,11 @@ add libraries which are needed<br/>
          | sudo tee /etc/apt/sources.list.d/ngrok.list \
           && sudo apt update \
           && sudo apt install ngrok
-  5.
+  5. now login to accout to ngrok account and copy your authentication TOKEN
+  6. now type the command and paste token to login to your account in kali linux.
+
+         ngrok config add-authtoken <TOKEN> 
+  7.
 
      
 
