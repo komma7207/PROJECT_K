@@ -62,9 +62,9 @@ add libraries which are needed<br/>
 
 
 
-##**now for advance  hacking we use kali linux, reverse powershell, ngrok server**
+## now for advance  hacking we use kali linux, reverse powershell, ngrok server
 
-  ##work to done on kali linux
+  ## work to done on kali linux
 
   1. use kali liux os in one of your system
   2. then we want to install ngrok in the kali linux os
@@ -112,8 +112,7 @@ add libraries which are needed<br/>
         tcp://0.tcp.in.ngrok.io:15660
     
 
-
-##payload part
+## payload part
 
 1. our payload is a reverse powershell code which makes a powershell connection to the listner. we need to setup ngrok before executing payload.
 2. code
