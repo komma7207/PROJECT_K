@@ -25,8 +25,8 @@ add libraries which are needed<br/>
   8. copy and paste code which is provided on github repo.
 
       
-         \```{r, file='MAINCODE.ino'}
-          \```
+      \```{r, file='MAINCODE.ino'}
+      \```
 
     
   10. change wifi password to your wifi settings.
