@@ -48,8 +48,12 @@ add libraries which are needed<br/>
     -  now plugin the device into pc/laptop. 
     -  you get ip address of the device connnected to wifi in serial monitor. copy the ip address from it and paste on the         broswer search bar.
     -  then press enter.
-  ![Alt text](img.jpg)
+    -  then a local webpage will open on broswer. webpage will look like the image shown below
+   ![Alt text](img.jpg)
 
+     Connecting to Wi-Fi 
+    - now paste your script to execte on powershell window 
+  
 
     
 
