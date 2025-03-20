@@ -20,9 +20,11 @@ add libraries which are needed<br/>
   6. click on boards
   7. then select esp32 s3 boards.
   8. copy and paste code which is provided on github repo.
-  9. change wifi password to your wifi settings.
-  10. change payload if needed
-  11. Connect the ESP32-S3 Mini to Your Computer**
+
+    .
+  10. change wifi password to your wifi settings.
+  11. change payload if needed
+  12. Connect the ESP32-S3 Mini to Your Computer**
 
     - Use a USB cable to connect the ESP32-S3 Mini to your computer.
 
