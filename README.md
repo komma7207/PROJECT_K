@@ -6,13 +6,13 @@ HID EMULATION DEVICE**
 
 first install aurdino ide software on window 
 add libraries which are needed<br/> 
-**#include "Arduino.h"<br/>
+#include "Arduino.h"<br/>
 #include "USB.h"<br/>
 #include "USBHIDKeyboard.h"<br/>
 #include <WiFi.h><br/>
 #include <WebServer.h><br/>
 
-**
+
   1. Open Arduino IDE.
   2. Go to `Tools` > `Board` > `Boards Manager`.
   4. Search for "ESP32" and install the package by Espressif Systems.
@@ -41,5 +41,9 @@ add libraries which are needed<br/>
     - While holding the `BOOT` button, press the `RESET` button once.
 
     - Release the `BOOT` button.
+
+
+  ## Connecting to Wi-Fi
+  
 
 
