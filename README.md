@@ -64,6 +64,20 @@ add libraries which are needed<br/>
 
 **now for advance  hacking we use kali linux, reverse powershell, ngrok server**
 
+  1. use kali liux os in one of your system
+  2. then we want to install ngrok in the kali linux os
+  3. open command prompt in the kali
+  4. paste the command
+
+         curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc \
+          | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null \
+          && echo "deb https://ngrok-agent.s3.amazonaws.com buster main" \
+         | sudo tee /etc/apt/sources.list.d/ngrok.list \
+          && sudo apt update \
+          && sudo apt install ngrok
+  5.
+
+     
 
 
     
