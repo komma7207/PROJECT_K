@@ -62,7 +62,9 @@ add libraries which are needed<br/>
 
 
 
-**now for advance  hacking we use kali linux, reverse powershell, ngrok server**
+##**now for advance  hacking we use kali linux, reverse powershell, ngrok server**
+
+  ##work to done on kali linux
 
   1. use kali liux os in one of your system
   2. then we want to install ngrok in the kali linux os
@@ -79,7 +81,29 @@ add libraries which are needed<br/>
   6. now type the command and paste token to login to your account in kali linux.
 
          ngrok config add-authtoken <TOKEN> 
-  7.
+  7.we want to setup  server to avalible on public host
+
+        ngrok tcp 1337
+        
+  8.then we want to setup listner for reverse shell connection
+
+        nc -lvnp 1337
+
+  9. output window will be like
+
+    ngrok                           (Ctrl+C to quit)
+
+    Session Status                online
+    Account                       inconshreveable (Plan: Free)
+    Version                       3.0.0
+    Region                        United States (us)
+    Latency                       78ms
+    Web Interface                 http://127.0.0.1:4040
+    Forwarding                    https://84c5df474.ngrok-free.dev -> http://localhost:8080
+
+    Connections                   ttl     opn     rt1     rt5     p50     p90
+                                  0       0       0.00    0.00    0.00    0.00
+
 
      
 
