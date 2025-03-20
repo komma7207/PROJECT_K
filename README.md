@@ -44,6 +44,13 @@ add libraries which are needed<br/>
 
 
   ## Connecting to Wi-Fi
-  
+
+    -  now plugin the device into pc/laptop. 
+    -  you get ip address of the device connnected to wifi in serial monitor. copy the ip address from it and paste on the         broswer search bar.
+    -  then press enter.
+    
+
+    
+
 
 
