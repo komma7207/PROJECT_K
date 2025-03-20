@@ -24,8 +24,10 @@ add libraries which are needed<br/>
   7. then select esp32 s3 boards.
   8. copy and paste code which is provided on github repo.
 
+      
+         \```{r, file='MAINCODE.ino'}
+          \```
 
-        
     
   10. change wifi password to your wifi settings.
   11. change payload if needed
